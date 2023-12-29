@@ -51,7 +51,7 @@
     <script src="index.js"></script>
 </body>
 </html>
-'''
+```
 # CSS
 
 ```CSS
@@ -89,7 +89,7 @@ body{
     border-radius: 5px;
 }
 
-'''
+```
 ## JavaScript
 let monthNames = ["January","February","March", "April", "May", "June", "July",
     "August","September","October","November","December"];
