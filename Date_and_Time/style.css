@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+     color:white;
+}
+
+.date, .time{
+    display: flex;
+    width: 450px;
+    margin: auto;
+    justify-content: space-between;
+}
+
+.time{
+    width: 550px;
+}
+
+.date .date_item, .time .time_item{
+    width: 100px;
+    text-align: center;
+}
+
+.date .date_item .head, .time .time_item .head{
+    background-color: rgb(187, 209, 61);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+.date .date_item .body, .time .time_item .body{
+    background-color: rgb(8, 128, 54);
+    padding: 20px;
+    border-radius: 5px;
+}
