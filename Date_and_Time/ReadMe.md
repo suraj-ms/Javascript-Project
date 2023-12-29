@@ -112,5 +112,4 @@ function refreshTime() {
     document.querySelector(".meridiantext").textContent = amOrPm;
 }
 setInterval(refreshTime, 1000);
-
-'''
+```
